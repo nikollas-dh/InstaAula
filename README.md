@@ -56,7 +56,7 @@ Isso significa que:
 
 * **Flutter**
 * **Dart**
-* Material Design
+* **Material Design**
 
 ## Execução
 
