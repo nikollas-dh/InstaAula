@@ -82,12 +82,15 @@ lib/
 ├── services/
 │   └── user_service.dart
 └── pages/
-    ├── login_page.dart
-    ├── register_page.dart
-    ├── recuperar_senha_page.dart
+    ├── buscar_page.dart
+    ├── cadastro_page.dart
+    ├── editar_perfil_page.dart
+    ├── feed_page.dart
     ├── home_page.dart
+    ├── login_page.dart
     ├── perfil_page.dart
-    └── editar_perfil_page.dart
+    ├── recuperar_senha.dart
+    └── reels_page.dart
 ```
 
 ## Projeto acadêmico
